@@ -2,6 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display: flex;
+	align-item: center;
 	
 }
 .box1, .box2, .box3{
