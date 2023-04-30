@@ -4,6 +4,8 @@
 	display: flex;
 	justify-content: center;
 	align-item: center;
+	flex-wrap: wrap;
+	
 	
 }
 .box1, .box2, .box3{
